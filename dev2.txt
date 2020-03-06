@@ -1,2 +1,3 @@
 dev2文件：
 	nothing
+	test for core.edit "code --wait"

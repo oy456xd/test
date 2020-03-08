@@ -1,2 +1,3 @@
 master
 	nothing
+	add info in master.txt on branch master for testing git push on vscode

@@ -1,2 +1,2 @@
-master：
+master
 	nothing

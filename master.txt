@@ -1,5 +1,6 @@
 master
 	nothing
+
 	add info in master.txt on branch master for testing git push on vscode
 
 	add info in master.txt on branch master for testing merge on vscode
@@ -7,3 +8,6 @@ master
 add info in master.txt on branch dev
 
 info need to be merged
+	add info in master.txt on branch dev
+	
+	add this info on branch dev4

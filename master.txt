@@ -6,4 +6,4 @@ master
 	
 add info in master.txt on branch dev
 
-info for test merge 
+info need to be merged

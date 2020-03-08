@@ -1,0 +1,5 @@
+dev2:
+	test for core.edit  
+	nothing
+
+add this info in dev2.txt on branch dev3

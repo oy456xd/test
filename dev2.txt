@@ -1,4 +1,4 @@
-dev2文件：
+dev2:
 	test for core.edit  
 	nothing
 

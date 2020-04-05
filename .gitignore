@@ -5,6 +5,7 @@
 # build/
 # !/src/build/777  # 无效，777 文件的父目录被忽略了
 
+# 忽略 /src/build/ 文件夹下的文件，但是不忽略文件夹
 # /src/build/*
 # !/src/build/777  # 有效
 
